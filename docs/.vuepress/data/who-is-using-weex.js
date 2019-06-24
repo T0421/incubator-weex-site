@@ -296,6 +296,14 @@ export default [
     icon: 'http://shop.tonysfarm.com/static/images/logos/icon-60@3x.png',
     iOS:
       'https://itunes.apple.com/cn/app/%E4%BF%A1%E5%A5%BD%E6%9C%89%E7%94%B0/id1439791996?mt=8',
+    android: 'https://sj.qq.com/myapp/detail.htm?apkName=com.taocaimall.www'
+  },
+  {
+    name_CN: '淘菜猫-精选生鲜',
+    name_EN: 'taocaimall',
+    icon: 'https://s3.cn-north-1.amazonaws.com.cn/h5.taocai.mobi/down/downloadApp/images/Logo.png',
+    iOS:
+      'https://apps.apple.com/cn/app/id1012946513',
     android: 'https://a.app.qq.com/o/simple.jsp?pkgname=com.tonysfarm.wx'
   }
 ];
